@@ -14,12 +14,13 @@ public class ham670796 extends Animal {
     }
 
     @Override
+    // The Popular flamingo- What sounds a flamingo makes blog
     public String getSound() {
-        return "claw";
+        return "nasally honking";
     }
 
     @Override
     public String getDescription() {
-        return ".";
+        return "A bird with bright pink feather, stilt like legs and a s-shaped neck.";
     }
 }
